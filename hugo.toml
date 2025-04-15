@@ -1,0 +1,14 @@
+baseURL = "https://til.niracler.com/"
+languageCode = "zh-cn"
+title = "每日一学 TIL"
+theme = "PaperMod"
+
+[params]
+  [params.homeInfoParams]
+    Title = "欢迎来到我的 SPC 博客"
+    Content = "这里记录了我每天学习的新知识，欢迎探索！"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/fakelutin"
+
