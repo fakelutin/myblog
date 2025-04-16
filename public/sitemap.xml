@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://til.niracler.com/post/2025-04-15-build-til-blog-by-hugo/</loc>
+    <loc>https://blog.toceo.ddns-ip.net/post/</loc>
+    <lastmod>2025-04-16T10:52:06+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.toceo.ddns-ip.net/post/testing/</loc>
+    <lastmod>2025-04-16T10:52:06+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.toceo.ddns-ip.net/</loc>
+    <lastmod>2025-04-16T10:52:06+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.toceo.ddns-ip.net/post/2025-04-15-build-til-blog-by-hugo/</loc>
     <lastmod>2025-04-15T19:53:58+08:00</lastmod>
   </url><url>
-    <loc>https://til.niracler.com/post/</loc>
-    <lastmod>2025-04-15T19:53:58+08:00</lastmod>
+    <loc>https://blog.toceo.ddns-ip.net/categories/</loc>
   </url><url>
-    <loc>https://til.niracler.com/</loc>
-    <lastmod>2025-04-15T19:53:58+08:00</lastmod>
-  </url><url>
-    <loc>https://til.niracler.com/categories/</loc>
-  </url><url>
-    <loc>https://til.niracler.com/tags/</loc>
+    <loc>https://blog.toceo.ddns-ip.net/tags/</loc>
   </url>
 </urlset>

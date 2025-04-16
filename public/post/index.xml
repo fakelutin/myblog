@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 每日一学 TIL</title>
-    <link>https://til.niracler.com/post/</link>
+    <link>https://blog.toceo.ddns-ip.net/post/</link>
     <description>Recent content in Posts on 每日一学 TIL</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Apr 2025 19:53:58 +0800</lastBuildDate>
-    <atom:link href="https://til.niracler.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 10:52:06 +0800</lastBuildDate>
+    <atom:link href="https://blog.toceo.ddns-ip.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>https://blog.toceo.ddns-ip.net/post/testing/</link>
+      <pubDate>Wed, 16 Apr 2025 10:52:06 +0800</pubDate>
+      <guid>https://blog.toceo.ddns-ip.net/post/testing/</guid>
+      <description>testing if this could be read online or not.</description>
+    </item>
     <item>
       <title>2025 04 15 Build Blog by Hugo</title>
-      <link>https://til.niracler.com/post/2025-04-15-build-til-blog-by-hugo/</link>
+      <link>https://blog.toceo.ddns-ip.net/post/2025-04-15-build-til-blog-by-hugo/</link>
       <pubDate>Tue, 15 Apr 2025 19:53:58 +0800</pubDate>
-      <guid>https://til.niracler.com/post/2025-04-15-build-til-blog-by-hugo/</guid>
+      <guid>https://blog.toceo.ddns-ip.net/post/2025-04-15-build-til-blog-by-hugo/</guid>
       <description>This is the first post of this blog. Test engaging.</description>
     </item>
   </channel>
