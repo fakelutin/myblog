@@ -1,7 +1,7 @@
 +++
 title = '2025 5 17 BuildRadicale'
 date = 2025-05-17T13:44:57+08:00
-draft = true
+draft = false
 +++
 
 # 一.安装dockge
