@@ -1,3 +1,10 @@
++++
+title = 'MC ATM9客户端 For Windows'
+date = 2025-06-21
+draft = false
++++
+
+
 # MC ATM9 客户端安装教程
 
 ## 一. 客户端与整合包获取(若已有，则跳过)

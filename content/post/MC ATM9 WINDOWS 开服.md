@@ -1,3 +1,10 @@
++++
+title = 'MC ATM9服务器Windows端开设教程'
+date = 2025-06-21
+draft = false
++++
+
+
 # MC ATM9 WINDOWS 开服
 
 ## 0.下载JAVA
