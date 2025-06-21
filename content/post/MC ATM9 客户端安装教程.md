@@ -1,11 +1,3 @@
-+++
-title = 'MC ATM9 客户端安装教程'
-date = 2025-06-19
-draft = false
-+++
-
-
-
 # MC ATM9 客户端安装教程
 
 ## 一. 客户端与整合包获取(若已有，则跳过)
@@ -60,7 +52,19 @@ ATM9整合包为 Curseforge 上的资源，[点击这里进行访问](https://ww
 
 汉化工具夸克网盘资源地址：[点击这里](%5B%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%E5%88%86%E4%BA%AB%5D(https://pan.quark.cn/s/728caf412ee1#/list/share))
 
-由于该工具汉化后的结果已经整合在了汉化补丁中，这里不提供流程，若想学习请[前往这里](https://www.bilibili.com/video/BV1WW4y1Z7cU/?spm_id_from=333.337.search-card.all.click&vd_source=1ea9ebc6d09911a607e42b0401057c5a)
+由于该工具汉化后的结果已经整合在了汉化补丁中，这里不提供流程，若想学习请[前往这里](https://www.bilibili.com/video/BV1WW4y1Z7cU/?spm_id_from=333.337.search-card.all.click&vd_source=1ea9ebc6d09911a607e42b0401057c5a) 
+
+### 4.拼音搜索
+
+为了更方便的使用JEI的搜索功能，一般都会安装JECh(Just Enough Characters)，[下载地址在这里]([Download Just Enough Characters - Minecraft Mods &amp; Modpacks - CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-characters/download/5543190)) 
+
+下载好后，直接放在该路径下即可
+
+```bash
+PCL所在位置\\.minecraft\versions\All the Mods 9\mods
+```
+
+
 
 ### 三.启动客户端
 
