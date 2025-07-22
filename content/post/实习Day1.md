@@ -1,5 +1,5 @@
 ---
-title: 实习记录：Day0
+title: '实习记录Day0'
 date: 2025-07-21 22:00:00+0000
 draft = false
 ---
